@@ -1,0 +1,7 @@
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 1\Capitulo 1\Lab01\bin\Debug\Lab01.exe.config
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 1\Capitulo 1\Lab01\bin\Debug\Lab01.exe
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 1\Capitulo 1\Lab01\bin\Debug\Lab01.pdb
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 1\Capitulo 1\Lab01\obj\Debug\Lab01.csproj.AssemblyReference.cache
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 1\Capitulo 1\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 1\Capitulo 1\Lab01\obj\Debug\Lab01.exe
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 1\Capitulo 1\Lab01\obj\Debug\Lab01.pdb
