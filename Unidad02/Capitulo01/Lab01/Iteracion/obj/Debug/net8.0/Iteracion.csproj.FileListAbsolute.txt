@@ -1,0 +1,14 @@
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Iteracion\bin\Debug\net8.0\Iteracion.exe
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Iteracion\bin\Debug\net8.0\Iteracion.deps.json
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Iteracion\bin\Debug\net8.0\Iteracion.runtimeconfig.json
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Iteracion\bin\Debug\net8.0\Iteracion.dll
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Iteracion\bin\Debug\net8.0\Iteracion.pdb
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Iteracion\obj\Debug\net8.0\Iteracion.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Iteracion\obj\Debug\net8.0\Iteracion.AssemblyInfoInputs.cache
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Iteracion\obj\Debug\net8.0\Iteracion.AssemblyInfo.cs
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Iteracion\obj\Debug\net8.0\Iteracion.csproj.CoreCompileInputs.cache
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Iteracion\obj\Debug\net8.0\Iteracion.dll
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Iteracion\obj\Debug\net8.0\refint\Iteracion.dll
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Iteracion\obj\Debug\net8.0\Iteracion.pdb
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Iteracion\obj\Debug\net8.0\Iteracion.genruntimeconfig.cache
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Iteracion\obj\Debug\net8.0\ref\Iteracion.dll

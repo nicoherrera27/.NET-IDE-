@@ -1,0 +1,14 @@
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Decision\bin\Debug\net8.0\Decision.exe
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Decision\bin\Debug\net8.0\Decision.deps.json
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Decision\bin\Debug\net8.0\Decision.runtimeconfig.json
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Decision\bin\Debug\net8.0\Decision.dll
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Decision\bin\Debug\net8.0\Decision.pdb
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Decision\obj\Debug\net8.0\Decision.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Decision\obj\Debug\net8.0\Decision.AssemblyInfoInputs.cache
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Decision\obj\Debug\net8.0\Decision.AssemblyInfo.cs
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Decision\obj\Debug\net8.0\Decision.csproj.CoreCompileInputs.cache
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Decision\obj\Debug\net8.0\Decision.dll
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Decision\obj\Debug\net8.0\refint\Decision.dll
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Decision\obj\Debug\net8.0\Decision.pdb
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Decision\obj\Debug\net8.0\Decision.genruntimeconfig.cache
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Decision\obj\Debug\net8.0\ref\Decision.dll

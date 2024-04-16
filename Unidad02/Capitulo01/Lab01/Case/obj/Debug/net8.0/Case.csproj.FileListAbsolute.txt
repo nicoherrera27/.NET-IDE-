@@ -1,0 +1,14 @@
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Case\bin\Debug\net8.0\Case.exe
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Case\bin\Debug\net8.0\Case.deps.json
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Case\bin\Debug\net8.0\Case.runtimeconfig.json
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Case\bin\Debug\net8.0\Case.dll
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Case\bin\Debug\net8.0\Case.pdb
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Case\obj\Debug\net8.0\Case.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Case\obj\Debug\net8.0\Case.AssemblyInfoInputs.cache
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Case\obj\Debug\net8.0\Case.AssemblyInfo.cs
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Case\obj\Debug\net8.0\Case.csproj.CoreCompileInputs.cache
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Case\obj\Debug\net8.0\Case.dll
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Case\obj\Debug\net8.0\refint\Case.dll
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Case\obj\Debug\net8.0\Case.pdb
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Case\obj\Debug\net8.0\Case.genruntimeconfig.cache
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01\Case\obj\Debug\net8.0\ref\Case.dll
