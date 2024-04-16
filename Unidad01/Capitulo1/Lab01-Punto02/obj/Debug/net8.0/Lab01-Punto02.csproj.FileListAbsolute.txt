@@ -1,0 +1,14 @@
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 1\Capitulo 1\Lab01-Punto02\bin\Debug\net8.0\Lab01-Punto02.exe
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 1\Capitulo 1\Lab01-Punto02\bin\Debug\net8.0\Lab01-Punto02.deps.json
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 1\Capitulo 1\Lab01-Punto02\bin\Debug\net8.0\Lab01-Punto02.runtimeconfig.json
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 1\Capitulo 1\Lab01-Punto02\bin\Debug\net8.0\Lab01-Punto02.dll
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 1\Capitulo 1\Lab01-Punto02\bin\Debug\net8.0\Lab01-Punto02.pdb
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 1\Capitulo 1\Lab01-Punto02\obj\Debug\net8.0\Lab01-Punto02.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 1\Capitulo 1\Lab01-Punto02\obj\Debug\net8.0\Lab01-Punto02.AssemblyInfoInputs.cache
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 1\Capitulo 1\Lab01-Punto02\obj\Debug\net8.0\Lab01-Punto02.AssemblyInfo.cs
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 1\Capitulo 1\Lab01-Punto02\obj\Debug\net8.0\Lab01-Punto02.csproj.CoreCompileInputs.cache
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 1\Capitulo 1\Lab01-Punto02\obj\Debug\net8.0\Lab01-Punto02.dll
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 1\Capitulo 1\Lab01-Punto02\obj\Debug\net8.0\refint\Lab01-Punto02.dll
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 1\Capitulo 1\Lab01-Punto02\obj\Debug\net8.0\Lab01-Punto02.pdb
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 1\Capitulo 1\Lab01-Punto02\obj\Debug\net8.0\Lab01-Punto02.genruntimeconfig.cache
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 1\Capitulo 1\Lab01-Punto02\obj\Debug\net8.0\ref\Lab01-Punto02.dll
