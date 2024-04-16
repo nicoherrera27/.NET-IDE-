@@ -1,0 +1,14 @@
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01.ParaPensar\Lab01.ParaPensar\bin\Debug\net8.0\Lab01.ParaPensar.exe
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01.ParaPensar\Lab01.ParaPensar\bin\Debug\net8.0\Lab01.ParaPensar.deps.json
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01.ParaPensar\Lab01.ParaPensar\bin\Debug\net8.0\Lab01.ParaPensar.runtimeconfig.json
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01.ParaPensar\Lab01.ParaPensar\bin\Debug\net8.0\Lab01.ParaPensar.dll
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01.ParaPensar\Lab01.ParaPensar\bin\Debug\net8.0\Lab01.ParaPensar.pdb
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01.ParaPensar\Lab01.ParaPensar\obj\Debug\net8.0\Lab01.ParaPensar.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01.ParaPensar\Lab01.ParaPensar\obj\Debug\net8.0\Lab01.ParaPensar.AssemblyInfoInputs.cache
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01.ParaPensar\Lab01.ParaPensar\obj\Debug\net8.0\Lab01.ParaPensar.AssemblyInfo.cs
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01.ParaPensar\Lab01.ParaPensar\obj\Debug\net8.0\Lab01.ParaPensar.csproj.CoreCompileInputs.cache
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01.ParaPensar\Lab01.ParaPensar\obj\Debug\net8.0\Lab01.ParaPensar.dll
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01.ParaPensar\Lab01.ParaPensar\obj\Debug\net8.0\refint\Lab01.ParaPensar.dll
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01.ParaPensar\Lab01.ParaPensar\obj\Debug\net8.0\Lab01.ParaPensar.pdb
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01.ParaPensar\Lab01.ParaPensar\obj\Debug\net8.0\Lab01.ParaPensar.genruntimeconfig.cache
+D:\FACULTAD\3° Año (2024)\.NET (IDE)\Unidad 2\Capitulo 1\Lab01.ParaPensar\Lab01.ParaPensar\obj\Debug\net8.0\ref\Lab01.ParaPensar.dll
